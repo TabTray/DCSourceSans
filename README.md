@@ -1,5 +1,5 @@
 # Discord Source Sans
-A quick and dirty <a href="https://discord.com">Discord</a> theme that just makes the font <a href="https://www.1001fonts.com/source-sans-pro-font.html">Source Sans Pro.</a>
+A quick and dirty <a href="https://discord.com">Discord</a> theme that just makes the font a slightly bolded <a href="https://www.1001fonts.com/source-sans-pro-font.html">Source Sans Pro.</a>
 
 ## Installation
 <h3><a href="https://vencord.dev">Vencord</a></h3>
@@ -31,4 +31,4 @@ A quick and dirty <a href="https://discord.com">Discord</a> theme that just make
 Other installation methods will be added when they are tested and/or implemented.
 
 ## Inspiration
-this is because you begged and pleaded to have this theme lilpac
+this theme was basically just made and tuned for one of my friends to use, but if somebody out there finds this useful then thats cool too i guess
