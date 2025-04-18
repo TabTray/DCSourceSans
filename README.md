@@ -1,6 +1,8 @@
 # Discord Source Sans
 A quick and dirty <a href="https://discord.com">Discord</a> theme that just makes the font a slightly bolded <a href="https://www.1001fonts.com/source-sans-pro-font.html">Source Sans Pro.</a>
 
+<i>it also changes the z-index of the oneko plugin but nobody really cares about that</i>
+
 ## Installation
 <h3><a href="https://vencord.dev">Vencord</a></h3>
 <details>
