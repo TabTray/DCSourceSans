@@ -1,5 +1,5 @@
 # Discord Source Sans
-A quick and dirty <a href="https://discord.com">Discord</a> theme that just makes the font a slightly bolded <a href="https://www.1001fonts.com/source-sans-pro-font.html">Source Sans Pro.</a>
+A quick and dirty <a href="https://discord.com">Discord</a> theme that just makes the font a slightly bolded <a href="https://fonts.google.com/specimen/Source+Sans+3">Source Sans 3.</a>
 
 <i>it also changes the z-index of the oneko plugin but nobody really cares about that</i>
 
