@@ -1,0 +1,23 @@
+/** 
+ * @name Source Sans Font
+ * @author TabTray
+ * @authorLink https://tabtray.neocities.org
+ * @description A very quick and dirty theme that just changes the Discord font to Source Sans/Source Sans Pro
+ * @version 1.0
+ * @source https://github.com/TabTray/DCSourceSans
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@600&display=swap');
+
+:root {
+	font-family: "Source Sans 3", sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	/* Extras */
+	--oneko-zindex: 999999999999999; /* This number will place Oneko either above or below objects, if the number is higher or lower respectively. By default, Oneko may go under many objects. This fixes that. (Note: this may be overkill lol) */
+}
+
+/* vencord oneko, sets the gato's zindex so that they dont walk under stuff */
+#oneko {
+	z-index: var(--oneko-zindex);
+}
